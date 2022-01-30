@@ -8,9 +8,9 @@ public final class Tester {
 	{
 	TicTacToe tt=new TicTacToe();
 	JButton jbsp[]=tt.getButtons();
-    jbsp[0].setText("O");
-    jbsp[3].setText("O");
-    jbsp[6].setText("O");
+    jbsp[0].setText("X");
+    jbsp[3].setText("X");
+    jbsp[6].setText("X");
     System.out.println(tt.winner());
 	}
 
