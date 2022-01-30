@@ -5,7 +5,8 @@
 *.log
 #XML files
 *.xml
-*.vs
+.vs/
+.idea/
 
 # BlueJ files
 *.ctxt
