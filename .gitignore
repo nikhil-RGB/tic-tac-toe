@@ -7,6 +7,7 @@
 *.xml
 .vs/
 .idea/
+out/
 
 # BlueJ files
 *.ctxt
