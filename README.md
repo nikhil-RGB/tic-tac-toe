@@ -3,7 +3,18 @@
 
 
 <br>
-Plain and simple tic tac toe GUI app, built with SWING GUI framwework of JAVA.<br>
-One of my simpler GUI projects, Tic Tac Toe consists of only a single class which carries out all operations, both for GUI creation and data management.
+
+### Purpose
+
+Plain and simple tic tac toe GUI app, built with SWING/AWT GUI framweworks of JAVA 8.<br>
+A very simple GUI project, Tic Tac Toe consists of only a single class which carries out all operations, both for GUI creation and data management.
+<br/><br/>
+
+### How to use
+
+- Download the .jar file from releases.
+- Ensure you have JAVA 8/9 preinstalled on the system.
+- Run the .jar file downloaded with the JRE installed on your system.
+
 
 
